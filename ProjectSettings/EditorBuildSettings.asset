@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Flask App Sample/BodyPoseEstimation.unity
-    guid: 90bb34eb76062ba4b911ad6b4a9c0d72
+    path: Assets/GoogleCloudAPI/GoogleTranslateSample.unity
+    guid: 87aa53432990f774bbf8e4eb83b867ad
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f2bf97b3acdb64248a707c407c9fc54e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a971eac5e950046e586c5e153e32d05c, type: 2}
